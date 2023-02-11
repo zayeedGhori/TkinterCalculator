@@ -1,0 +1,33 @@
+Get the number of vrobits from the user
+
+Calculate the number of drobzits:
+  number of drobzits = number of vrobits / 100,000
+
+Calculate the remaining number of vrobits:
+  remaining vrobits = number of vrobits % 100,000
+
+Calculate the number of clickwicks:
+  number of clickwicks = remaining vrobits / 50,000
+
+Calculate the remaining number of vrobits:
+  remaining vrobits = remaining vrobits % 50,000
+
+Calculate the number of gazoontights:
+  number of gazoontights = remaining vrobits / 10,000
+
+Calculate the remaining number of vrobits:
+  remaining vrobits = remaining vrobits % 10,000
+
+Calculate the number of frazoints:
+  number of frazoints = remaining vrobits / 1,000
+
+Calculate the remaining number of vrobits:
+  remaining vrobits = remaining vrobits % 1,000
+
+Calculate the number of blointoits:
+  number of blointoits = remaining vrobits / 500
+
+Calculate the number of vrobits:
+  number of vrobits = remaining vrobits % 500
+
+Output the number of drobzits, clickwicks, gazoontights, frazoints, blointoits, and vrobits the user needs to give
